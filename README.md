@@ -1,2 +1,2 @@
-# Class-Projects
-Machine learning projects I made during my Bachelor's. 
+# Gold-Price-Prediction
+Machine learning project I made during my Bachelor's. 
